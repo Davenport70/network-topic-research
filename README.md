@@ -68,7 +68,7 @@ That will give us a remainder of 0. So for the rest of the values in our row, we
 128	64	32	16	8	4	2	1
 1	0	0	1	1	0	1	0
 ```
-**OUR FIRST IP OF 128 IS 10011010 IN BINARY.**
+**OUR FIRST IP OF 154 IS 10011010 IN BINARY.**
 
 ## *Topic 2*
 
